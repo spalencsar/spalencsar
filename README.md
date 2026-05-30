@@ -1,7 +1,7 @@
 <div align="center">
   <h1>Sebastian Palencsár</h1>
   <p><b>Senior Infrastructure Architect &amp; Linux Specialist</b></p>
-  <p><i>Malchow, Germany &bull; 20+ Years of Linux Experience &bull; Former Journalist &amp; Editor</i></p>
+  <p><i>Hamburg, Germany &bull; 20+ Years of Linux Experience &bull; Former Journalist &amp; Editor</i></p>
 
   <p>
     <a href="https://palencsar.pro"><img src="https://img.shields.io/badge/Platform-Linux-f5a524?style=flat-square&logo=linux&logoColor=0f1420&labelColor=1e293b" /></a>
