@@ -13,36 +13,54 @@
 
 ---
 
-## 👤 Profile
+## 🧠 Who I Am & How I Work
 
-I operate at the intersection of **technical infrastructure** and **clear communication**.
+I operate at the intersection of **robust technical infrastructure** and **clear communication**. 
 
 With over two decades of Linux systems engineering experience and a professional background as a journalist and editor (listed on [kress.de](https://kress.de/kopf/profil/24011-sebastian-palencsar.html)), I specialize in translating complex technical states into robust, documented, and low-maintenance platforms.
 
-I believe that long-term operational quality is achieved through **disciplined simplicity**—restricting tool sprawl, enforcing clear standards, and providing meticulous documentation.
+### ⚡ My Operational Principles
+*   **Low Maintenance Over Tool Overhead**: I build architectures, not tool towers. If a problem can be solved with a systemd service or a clean Ansible playbook, I won't deploy Kubernetes. Stability comes from leaving out the unnecessary.
+*   **Documentation as Code**: Thanks to my journalism background, documentation is not an afterthought, but a core deliverable. Incomplete or outdated documentation is just like buggy code.
+*   **Arch Linux First**: My daily desktop and development environment is based on Arch Linux. I value total control, the rolling release model, the AUR packaging ecosystem, and clean, transparent `PKGBUILD`s.
+
+### 🧩 Neurodivergent Engineering
+As an autistic developer and architect, I have a natural affinity for deep logical consistency, clean schemas, and highly predictable runtime behavior. I design and document systems meticulously so they run stably, remain understandable, and require zero late-night fire fighting.
 
 ---
 
-## 🛠️ Tech Stack & Governance
+## 🛠️ My Tech Stack
 
-| Systems & Platform               | Automation & IaC                       | Code & Desktop                     | Documentation & Audits                  |
-| :------------------------------- | :------------------------------------- | :--------------------------------- | :-------------------------------------- |
-| **OS**: RHEL, Ubuntu, Arch Linux | **Tools**: Ansible, Bash scripting     | **GUI**: Qt 6, QML, KDE Frameworks | **Ops**: Architecture & Security Audits |
-| **Virt**: Proxmox VE, Docker     | **Deployment**: Git-driven IaC         | **Languages**: C++, Rust, Python   | **Governance**: Incident & Risk Mgmt    |
-| **Edge**: OpenResty, Nginx       | **Config**: JSON / Markdown structures | **Frameworks**: Tauri, WebViews    | **Writing**: Structured Technical Docs  |
+| Systems & Platform               | Automation & IaC                       | Code & Desktop                         | Documentation & Audits                  |
+| :------------------------------- | :------------------------------------- | :------------------------------------- | :-------------------------------------- |
+| **OS**: RHEL, Ubuntu, Arch Linux | **Tools**: Ansible, Bash scripting     | **GUI**: Qt 6, QML, KDE Frameworks     | **Ops**: Architecture & Security Audits |
+| **Virt**: Proxmox VE, Docker     | **Deployment**: Git-driven IaC         | **Languages**: C++, Rust, Python, PHP  | **Governance**: Incident & Risk Mgmt    |
+| **Web/Edge**: OpenResty, Nginx   | **Data**: JSON / Markdown structures   | **Desktop**: PyQt, Tauri, WebViews     | **Resilience**: BCP, HA, Risk Analysis  |
 
 ---
 
-## 🚀 Featured Open Source Projects
+## ⭐️ Highlight Project: BearWave 📻
+
+Over the past few weeks, I have put intensive effort into developing **[BearWave](https://github.com/spalencsar/bearwave)**. It is a focused, native KDE internet radio player for Linux, built with **C++, Qt 6, QML, and KDE Frameworks**.
+
+> **Why I built it:** Many Linux players are bloated media centers. BearWave does exactly one thing right: play web radio quickly and efficiently, without getting in the system's way.
+
+*   **Seamless Plasma Integration:** Full MPRIS support (control via media keys and panel widget) and a system tray mode for unobtrusive background operation.
+*   **Resilient & Offline-First:** Intelligent JSON caching for station data and automatic cover art caching to minimize load times and resume streams instantly.
+*   **Bilingual & Localized:** Dynamic UI translation (English/German) and country name localization for over 250 countries, including automatic flag generation from ISO codes.
+*   **Arch Linux Native:** Cleanly packaged and installable via the Arch User Repository (`bearwave-git`).
+
+👉 **[Repository](https://github.com/spalencsar/bearwave)** &bull; 🎬 **[Watch Demo Video](https://github.com/spalencsar/bearwave/raw/main/screens/bearwave_demo.mp4)**
+
+---
+
+## 📦 Other Open-Source Projects
 
 ### 💻 Desktop Applications
-
-- **[Bearwave](https://github.com/spalencsar/bearwave)** — A focused, native KDE internet radio player built with Qt 6, QML, and KDE Frameworks. Integrates with MPRIS, system tray, and local JSON caches for offline resilience. Available in the Arch User Repository (`bearwave-git`).
-- **[Bearhub](https://github.com/spalencsar/bearhub)** — An Arch-first graphical package manager fork of bauh, updated for compatibility with modern Arch Linux and current Python runtimes. Available in the AUR (`bearhub`).
-- **[Deskify](https://github.com/spalencsar/deskify)** — A lightweight CLI utility that turns web applications into native Linux desktop apps using Tauri/WebView to minimize resource footprint. Available in the AUR (`deskify-bin`).
+- **[Bearhub](https://github.com/spalencsar/bearhub)** — An Arch-focused fork of the package manager bauh, optimized for compatibility with modern Arch Linux and current Python runtimes. Available in the AUR (`bearhub`).
+- **[Deskify](https://github.com/spalencsar/deskify)** — A lightweight CLI tool that converts web applications into native desktop apps using Tauri/WebView to minimize resource footprint. Available in the AUR (`deskify-bin`).
 
 ### ⚙️ Infrastructure & Automation
-
 - **[nas](https://github.com/spalencsar/nas)** — Multi-distribution Ansible playbooks for deploying and hardening secure, containerized NAS environments (Debian, Ubuntu, Fedora, Arch, openSUSE).
 - **[ansible-lemp-wordpress](https://github.com/spalencsar/ansible-lemp-wordpress)** — High-availability LEMP stacks with WordPress, Redis, SSL, and automated maintenance across enterprise Linux distributions.
 
@@ -54,8 +72,8 @@ I believe that long-term operational quality is achieved through **disciplined s
 | :----------------------------------- | :-------------- | :--------------- |
 | **Ubuntu Linux Professional**        | Canonical       | Certified (2025) |
 | **Docker Foundations Professional**  | Docker, Inc.    | Certified (2025) |
-| **Network Automation Professional**  | Arista Networks | Certified (2025) |
-| **Penetration Testing Professional** | Cybrary         | Certified (2025) |
+| **Network Automation Professional**  | Arista Networks     | Certified (2025) |
+| **Penetration Testing Professional** | Cybrary             | Certified (2025) |
 
 _All certifications were completed via formal proctored examinations. Verification details are available on request._
 
