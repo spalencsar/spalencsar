@@ -64,9 +64,9 @@ _All certifications were completed via formal proctored examinations. Verificati
 ## 📊 GitHub Metrics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=spalencsar&show_icons=true&theme=transparent&hide=contribs&count_private=true&border_radius=6&hide_border=true&title_color=f5a524&icon_color=f5a524&text_color=cbd5e1" height="150" />
+  <img src="https://github-readme-stats-one-bice.vercel.app/api?username=spalencsar&show_icons=true&theme=transparent&hide=contribs&count_private=true&border_radius=6&hide_border=true&title_color=f5a524&icon_color=f5a524&text_color=cbd5e1" height="150" />
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=spalencsar&layout=compact&theme=transparent&border_radius=6&langs_count=6&hide_border=true&title_color=f5a524&icon_color=f5a524&text_color=cbd5e1" height="150" />
+  <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs?username=spalencsar&layout=compact&theme=transparent&border_radius=6&langs_count=6&hide_border=true&title_color=f5a524&icon_color=f5a524&text_color=cbd5e1" height="150" />
 </p>
 
 ---
