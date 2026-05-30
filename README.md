@@ -71,15 +71,6 @@ _All certifications were completed via formal proctored examinations. Verificati
 
 ---
 
-## ✉️ Contact & Verification
-
-- **Website**: [palencsar.pro](https://palencsar.pro)
-- **Email**: [hello@palencsar.pro](mailto:hello@palencsar.pro)
-- **LinkedIn**: [spalencsar](https://www.linkedin.com/in/spalencsar/)
-- **GPG Fingerprint**: `337E 2CCC E231 74EF 96B7 B8A5 AA1D 2F01 7080 0855` ([Download Key](https://keys.openpgp.org/vks/v1/by-fingerprint/337E2CCCE23174EF96B7B8A5AA1D2F0170800855))
-
----
-
 <p align="center">
   <sub>"Long-term operational quality is achieved through disciplined simplicity, not through the accumulation of tools and abstractions."</sub>
 </p>
