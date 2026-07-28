@@ -63,11 +63,6 @@ Over the past few weeks, I have put intensive effort into developing **[BearWave
 - **[Bearhub](https://github.com/spalencsar/bearhub)** — An Arch-focused fork of the package manager bauh, optimized for compatibility with modern Arch Linux and current Python runtimes. Available in the AUR (`bearhub`).
 - **[Deskify](https://github.com/spalencsar/deskify)** — A lightweight CLI tool that converts web applications into native desktop apps using Tauri/WebView to minimize resource footprint. Available in the AUR (`deskify-bin`).
 
-### ⚙️ Infrastructure & Automation
-
-- **[nas](https://github.com/spalencsar/nas)** — Multi-distribution Ansible playbooks for deploying and hardening secure, containerized NAS environments (Debian, Ubuntu, Fedora, Arch, openSUSE).
-- **[ansible-lemp-wordpress](https://github.com/spalencsar/ansible-lemp-wordpress)** — High-availability LEMP stacks with WordPress, Redis, SSL, and automated maintenance across enterprise Linux distributions.
-
 ---
 
 ## 📊 GitHub Metrics
